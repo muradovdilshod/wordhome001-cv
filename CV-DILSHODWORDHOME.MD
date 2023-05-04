@@ -77,3 +77,5 @@ __E-mail:__ DILSHODBEKMURADOV@gmail.com
 __Telegram:__ @TOY3225
 
 __Whatsapp:__ https://wa.me/qr/PGEJEGVPMSSIC1
+
+__instagram__ @ALEGAXR75.75
