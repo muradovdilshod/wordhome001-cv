@@ -75,3 +75,5 @@ __Phone:__ +998 99 636 69 66
 __E-mail:__ DILSHODBEKMURADOV@gmail.com
 
 __Telegram:__ @TOY3225
+
+__Whatsapp:__ https://wa.me/qr/PGEJEGVPMSSIC1
