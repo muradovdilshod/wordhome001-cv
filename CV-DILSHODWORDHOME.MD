@@ -28,13 +28,13 @@ I belive, that my abilty to learning and to gain new skills will lead me through
 
 ### Skills and Profiency:
 
-* HTML5, CSS3
+* VS Code, Subtitle
 
 * JavaScript Basics
 
 * Git, GitHub
 
-* VS Code, Subtitle
+* HTML5, CSS3
 
 * Adobe Photoshop, Illustrator,Corel
  + Capcut
