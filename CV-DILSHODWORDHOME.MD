@@ -63,10 +63,10 @@ function peak(arr) {
 ##### Grades
 | Fan |Baho|
 | --- | --- |
-| Matematika | 5 |
-| Fizika | 5 |
-| Ona tili | 5 |
-| Rus tili | 3 |
+| Matematika | -2 |
+| Fizika | +5 |
+| Ona tili | -2 |
+| Rus tili | -2 |
 
 
 #### Connnect information:
