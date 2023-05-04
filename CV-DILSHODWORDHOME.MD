@@ -3,7 +3,7 @@
 ***
 
 
-[Instagram](https://www.instagram.com/muhammadjasur2005/)
+[Instagram](https://instagram.com/alegarx75.75?igshid=ZDdkNTZiNTM=)
 
 [Git hub](http://www.github.com)
 ***
